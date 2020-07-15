@@ -1,4 +1,4 @@
-# Autonomous-Drone
+# Autonomous-UAV
 A detailed repository with step-by-step instructions on implementing an autonomous drone:
 All algorithms can be simulated on the px4 SITL simulator using Gazebo.
 ![Image EXAMPLE RESULT](https://github.com/Matnay/Autonomous-Drone/blob/master/Screenshot%20from%202019-06-30%2018-54-35.png)
@@ -84,4 +84,4 @@ rosrun <package_name> <script_name.py>
 Navigator.py - Path planning, SLAM and stereo camera based obstacle avoidance
 
 A link to the videos showing final results can be found here:
-https://drive.google.com/drive/u/0/folders/1qhfXiX-CNiFpI8fsTxjDEUSapS3mkc9u
+
